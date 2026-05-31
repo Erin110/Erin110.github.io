@@ -24,83 +24,51 @@ My research interests include **AI Security**, **Federated Graph Learning**, **L
 
 # &#128221; Publications
 
-<div style="border:1px solid #e5e7eb; border-radius:24px; padding:20px 24px; margin:20px 0; display:flex; align-items:center; justify-content:space-between; gap:26px; background:#fff;">
+<span style="font-size:0.9em; color:#666;">&#8224; Equal contribution</span>
 
-  <div style="flex:1; min-width:0;">
-    <div style="display:inline-block; padding:6px 14px; border-radius:999px; background:linear-gradient(90deg,#123b7a 0%, #2f6f73 100%); color:#fff; font-weight:700; font-size:13px; margin-bottom:14px;">
-      Research Interest
-    </div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/pub-ai-security.svg' alt="AI Security" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-    <div style="font-size:20px; font-weight:800; line-height:1.35; color:#1f2937; margin-bottom:12px;">
-      AI Security and Trustworthy AI
-    </div>
+**AI Security and Trustworthy AI**
 
-    <div style="font-size:16px; line-height:1.5; color:#374151; margin-bottom:10px;">
-      Security risks, robustness, and reliability evaluation for modern AI systems.
-    </div>
+**Yawen Jia**, collaborators to be updated
 
-    <div style="font-size:15px; font-style:italic; color:#6b7280;">
-      Keywords: AI Security, Trustworthy AI, Robustness
-    </div>
-  </div>
+*Research in progress / manuscript to be updated*
 
-  <div style="width:220px; height:130px; flex-shrink:0; display:flex; align-items:center; justify-content:center; background:#fff; border-radius:18px; box-shadow:0 6px 18px rgba(0,0,0,0.08); overflow:hidden; padding:8px;">
-    <img src="/images/500x300.png" alt="research placeholder" style="max-width:100%; max-height:100%; object-fit:contain; border-radius:12px;">
-  </div>
+Security risks, robustness, and reliability evaluation for modern AI systems.
 
 </div>
-
-<div style="border:1px solid #e5e7eb; border-radius:24px; padding:20px 24px; margin:20px 0; display:flex; align-items:center; justify-content:space-between; gap:26px; background:#fff;">
-
-  <div style="flex:1; min-width:0;">
-    <div style="display:inline-block; padding:6px 14px; border-radius:999px; background:linear-gradient(90deg,#1e3a8a 0%, #7c3aed 100%); color:#fff; font-weight:700; font-size:13px; margin-bottom:14px;">
-      Research Interest
-    </div>
-
-    <div style="font-size:20px; font-weight:800; line-height:1.35; color:#1f2937; margin-bottom:12px;">
-      Federated Graph Learning
-    </div>
-
-    <div style="font-size:16px; line-height:1.5; color:#374151; margin-bottom:10px;">
-      Graph learning in distributed and privacy-aware settings, with attention to secure collaboration and model reliability.
-    </div>
-
-    <div style="font-size:15px; font-style:italic; color:#6b7280;">
-      Keywords: Federated Learning, Graph Learning, Privacy
-    </div>
-  </div>
-
-  <div style="width:220px; height:130px; flex-shrink:0; display:flex; align-items:center; justify-content:center; background:#fff; border-radius:18px; box-shadow:0 6px 18px rgba(0,0,0,0.08); overflow:hidden; padding:8px;">
-    <img src="/images/500x300.png" alt="research placeholder" style="max-width:100%; max-height:100%; object-fit:contain; border-radius:12px;">
-  </div>
-
 </div>
 
-<div style="border:1px solid #e5e7eb; border-radius:24px; padding:20px 24px; margin:20px 0; display:flex; align-items:center; justify-content:space-between; gap:26px; background:#fff;">
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/pub-federated-graph.svg' alt="Federated Graph Learning" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-  <div style="flex:1; min-width:0;">
-    <div style="display:inline-block; padding:6px 14px; border-radius:999px; background:linear-gradient(90deg,#0f766e 0%, #d97706 100%); color:#fff; font-weight:700; font-size:13px; margin-bottom:14px;">
-      Research Interest
-    </div>
+**Federated Graph Learning**
 
-    <div style="font-size:20px; font-weight:800; line-height:1.35; color:#1f2937; margin-bottom:12px;">
-      LLM Security
-    </div>
+**Yawen Jia**, collaborators to be updated
 
-    <div style="font-size:16px; line-height:1.5; color:#374151; margin-bottom:10px;">
-      Security and safety issues in large language models, including prompt-level attacks and trustworthy behavior evaluation.
-    </div>
+*Research in progress / manuscript to be updated*
 
-    <div style="font-size:15px; font-style:italic; color:#6b7280;">
-      Keywords: LLM Security, Jailbreak, Evaluation
-    </div>
-  </div>
-
-  <div style="width:220px; height:130px; flex-shrink:0; display:flex; align-items:center; justify-content:center; background:#fff; border-radius:18px; box-shadow:0 6px 18px rgba(0,0,0,0.08); overflow:hidden; padding:8px;">
-    <img src="/images/500x300.png" alt="research placeholder" style="max-width:100%; max-height:100%; object-fit:contain; border-radius:12px;">
-  </div>
+Graph learning in distributed and privacy-aware settings, with attention to secure collaboration, privacy, and model reliability.
 
 </div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/pub-llm-security.svg' alt="LLM Security" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**LLM Security**
+
+**Yawen Jia**, collaborators to be updated
+
+*Research in progress / manuscript to be updated*
+
+Security and safety issues in large language models, including prompt-level attacks and trustworthy behavior evaluation.
+
+</div>
+</div>
+
+More research projects and publications will be updated soon.
 
 <span class='anchor' id='honors-and-awards'></span>
 

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" role="img" aria-labelledby="title desc">
+  <title id="title">Federated Graph Learning research thumbnail</title>
+  <desc id="desc">A clean graph network thumbnail for federated graph learning.</desc>
+  <rect width="500" height="300" fill="#f8fafc"/>
+  <rect x="34" y="34" width="432" height="232" rx="22" fill="#ffffff" stroke="#d8e2ea" stroke-width="2"/>
+  <g stroke="#9fb3c8" stroke-width="6" stroke-linecap="round">
+    <path d="M151 151l93-55 108 50"/>
+    <path d="M151 151l90 69 111-74"/>
+    <path d="M244 96l-3 124"/>
+    <path d="M244 96l108 128"/>
+  </g>
+  <circle cx="151" cy="151" r="31" fill="#1e3a8a"/>
+  <circle cx="244" cy="96" r="27" fill="#7c3aed"/>
+  <circle cx="352" cy="146" r="31" fill="#2f6f73"/>
+  <circle cx="241" cy="220" r="27" fill="#d97706"/>
+  <circle cx="352" cy="224" r="21" fill="#0f766e"/>
+  <text x="250" y="262" text-anchor="middle" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#1f2937">Federated Graph</text>
+</svg>

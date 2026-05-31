@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" role="img" aria-labelledby="title desc">
+  <title id="title">AI Security research thumbnail</title>
+  <desc id="desc">A clean abstract thumbnail for AI security and trustworthy AI.</desc>
+  <rect width="500" height="300" fill="#f7fafc"/>
+  <rect x="34" y="34" width="432" height="232" rx="22" fill="#ffffff" stroke="#d8e2ea" stroke-width="2"/>
+  <path d="M118 202c34-78 88-116 162-116 47 0 83 14 112 42" fill="none" stroke="#2f6f73" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="166" cy="132" r="28" fill="#123b7a" opacity="0.9"/>
+  <circle cx="256" cy="96" r="22" fill="#2f6f73" opacity="0.9"/>
+  <circle cx="350" cy="134" r="28" fill="#e88900" opacity="0.9"/>
+  <path d="M164 132l92-36 94 38" fill="none" stroke="#9fb3c8" stroke-width="6" stroke-linecap="round"/>
+  <rect x="122" y="188" width="256" height="24" rx="12" fill="#e8f1f2"/>
+  <text x="250" y="241" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#1f2937">AI Security</text>
+</svg>
