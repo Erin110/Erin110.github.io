@@ -19,9 +19,14 @@ My research interests primarily include **Large Language Models**, **AI Security
 
 <span class='anchor' id='news'></span>
 
-# &#128293; News
-- *2026.05*: &nbsp; Personal academic homepage launched for graduate application communication.
-- *2026*: &nbsp; Research updates on AI Security, Federated Graph Learning, and LLM Security will be added here.
+# 🔥 News
+
+- 📝 *2026.05*: &nbsp; One paper was accepted by **IEEE Network**.
+- 🚀 *2026.05*: &nbsp; Submitted one paper to **NeurIPS 2026** as the **first author**.
+- 🏆 *2025.12*: &nbsp; Awarded the prestigious **Lei Jun Computer Scholarship**, the **Wuhan University First-Class Scholarship**, and the title of **Outstanding Student**.
+- 🥇 *2025.11*: &nbsp; Won the **National First Prize** in the **National Undergraduate Mathematical Contest in Modeling**, awarded to the top **0.48%** of participants worldwide.
+- 🛡️ *2025.08*: &nbsp; Won the **First Prize** in the **National Undergraduate Artificial Intelligence Security Competition**.
+- 🎖️ *2024.11*: &nbsp; Awarded the **Wuhan University Second-Class Scholarship** and the title of **Outstanding Student**.
 
 <span class='anchor' id='publications'></span>
 
