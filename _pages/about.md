@@ -80,8 +80,13 @@ More research projects and publications will be updated soon.
 <span class='anchor' id='honors-and-awards'></span>
 
 # &#127894; Honors and Awards
-- *To be updated* Scholarships, competitions, and honors can be listed here.
-- *Format* **Award Name**, Organization / Competition, Year.
+
+- *2025.12*: **Lei Jun Computer Scholarship**, Wuhan University [[Certificate]](/files/2024-2025雷军计算机奖学金.pdf)
+- *2025.12*: **First-Class Scholarship**, Wuhan University [[Certificate]](/files/2024-2025甲等奖学金.pdf)
+- *2025.09*: **National First Prize**, China Undergraduate Mathematical Contest in Modeling (CUMCM) [[Certificate]](/files/全国大学生数模.png)
+- *2025.08*: **First Prize**, National College Student Artificial Intelligence Security Competition [[Certificate]](/files/全国大学生人工智能安全竞赛.jpg)
+- *2025.05*: **Provincial First Prize**, Huazhong Cup Mathematical Modeling Challenge [[Certificate]](/files/华中杯.jpg)
+- *2025.05*: **Provincial Second Prize**, China University Computer Design Competition [[Certificate]](/files/计设.jpg)
 
 <span class='anchor' id='educations'></span>
 
