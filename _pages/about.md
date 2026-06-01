@@ -33,16 +33,14 @@ My research interests primarily include **Large Language Models**, **AI Security
 
 # &#128221; Publications
 
-<span style="font-size:0.9em; color:#666;">&#8224; Equal contribution</span>
-
 <div class='paper-box'><div class='paper-box-image'><div><img src="/images/VeriDrift.png" alt="VeriDrift" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Consistency-Verified Backdoor Defense for Federated Graph Learning via Cross-Layer Drift**
 
-**Yanwen Jia<sup>†</sup>**, collaborators to be updated
+**Yanwen Jia**, collaborators to be updated
 
-*Submitted to NeurIPS 2026 · Co-first author*
+*Submitted to NeurIPS 2026 · First author*
 
 We propose **VeriDrift**, a backdoor defense framework for **Federated Graph Learning (FGL)** that leverages cross-layer representation drift, server-side consistency verification, and risk-aware aggregation to suppress malicious updates while preserving clean model utility under heterogeneous graph settings.
 
@@ -56,8 +54,7 @@ We propose **VeriDrift**, a backdoor defense framework for **Federated Graph Lea
 
 Jiaxin Gao, Chen Chen, **Yanwen Jia**, Xueluan Gong, Kwok-Yan Lam, Qian Wang
 
-*IEEE Network · Accepted · Third author*  
-[[IEEE Xplore]](https://ieeexplore.ieee.org/document/11536168)
+*IEEE Network · Accepted* [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11536168)
 
 We systematically investigate evaluation biases in **LLM-as-a-Judge** systems for communication scenarios, covering multiple judge models and 11 bias types, and discuss practical mitigation strategies for building fair, reliable, and trustworthy AI-based evaluators.
 
@@ -71,7 +68,7 @@ We systematically investigate evaluation biases in **LLM-as-a-Judge** systems fo
 
 Chen Chen, Yuchen Sun, Jiaxin Gao, **Yanwen Jia**, Xueluan Gong, Qian Wang, Kwok-Yan Lam
 
-*Submitted to ACM CCS 2026 · Fourth author*
+*Submitted to ACM CCS 2026*
 
 We propose **PROTOPURIFY**, a prototype-based backdoor purification framework for **Large Language Models (LLMs)**, which constructs transferable backdoor prototypes, identifies affected layers, and performs targeted parameter purification toward practical Backdoor Defense-as-a-Service.
 
