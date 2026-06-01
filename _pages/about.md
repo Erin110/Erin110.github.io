@@ -13,7 +13,8 @@ redirect_from:
 I am **Yawen Jia** (贾雁文), an undergraduate student majoring in **Cyberspace Security** at **Wuhan University**, and an undergraduate member of [NISP Lab](https://nisplab.whu.edu.cn/) led by [Prof. Qian Wang](https://scholar.google.com/citations?hl=en&user=CD7ybnAAAAAJ).
 
 
-My research interests include **AI Security**, **Federated Graph Learning**, **LLM Security**, and **Trustworthy AI**. I am actively preparing for graduate research opportunities and interested in building secure, robust, and reliable AI systems.
+My research interests primarily include **Large Language Models**, **AI Security**, **Federated Graph Learning**, and **Trustworthy AI**. Recently, I have also been exploring **agent memory** and related topics in LLM agents. I am actively seeking research collaborations and look forward to connecting with more researchers and peers.
+
 
 <span class='anchor' id='news'></span>
 
