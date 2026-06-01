@@ -79,44 +79,30 @@ More research projects and publications will be updated soon.
 
 <span class='anchor' id='honors-and-awards'></span>
 
+
 # &#127894; Honors and Awards
 
-- *2025.12*: **Lei Jun Computer Scholarship**, Wuhan University [[Certificate]](/files/2024-2025雷军计算机奖学金.pdf)
-- *2025.12*: **First-Class Scholarship**, Wuhan University [[Certificate]](/files/2024-2025甲等奖学金.pdf)
-- *2025.09*: **National First Prize**, China Undergraduate Mathematical Contest in Modeling (CUMCM) [[Certificate]](/files/全国大学生数模.png)
-- *2025.08*: **First Prize**, National College Student Artificial Intelligence Security Competition [[Certificate]](/files/全国大学生人工智能安全竞赛.jpg)
-- *2025.05*: **Provincial First Prize**, Huazhong Cup Mathematical Modeling Challenge [[Certificate]](/files/华中杯.jpg)
-- *2025.05*: **Provincial Second Prize**, China University Computer Design Competition [[Certificate]](/files/计设.jpg)
+- *2025.12*: **Lei Jun Computer Scholarship**, Wuhan University [[Certificate]](/images/2024-2025雷军计算机奖学金.pdf)
+- *2025.12*: **First-Class Scholarship**, Wuhan University [[Certificate]](/images/2024-2025甲等奖学金.pdf)
+- *2025.09*: **National First Prize**, China Undergraduate Mathematical Contest in Modeling (CUMCM) [[Certificate]](/images/全国大学生数模.png)
+- *2025.08*: **First Prize**, National College Student Artificial Intelligence Security Competition [[Certificate]](/images/全国大学生人工智能安全竞赛.jpg)
+- *2025.05*: **Provincial First Prize**, Huazhong Cup Mathematical Modeling Challenge [[Certificate]](/images/华中杯.jpg)
+- *2025.05*: **Provincial Second Prize**, China University Computer Design Competition [[Certificate]](/images/计设.jpg)
+
 
 <span class='anchor' id='educations'></span>
 
-# &#128214; Educations
+<span class='anchor' id='educations'></span>
 
-<div style="display:flex; align-items:center; gap:36px; margin:18px 0 8px 0;">
+# 📖 Educations
 
-  <div style="flex:0 0 620px; min-width:0;">
-    <div style="font-size:18px; font-weight:700; color:#374151; margin-bottom:8px;">
-      Present
-    </div>
+- *2023.08 - Present*, B.E. in Cyberspace Security, Wuhan University, China.
 
-    <div style="font-size:17px; line-height:1.6; color:#374151;">
-      Undergraduate, Cyberspace Security, Wuhan University
-    </div>
+<span class='anchor' id='activities-and-services'></span>
 
-    <div style="font-size:16px; line-height:1.6; color:#6b7280;">
-      School of Cyber Science and Engineering
-    </div>
-  </div>
+# 🎡 Activities & Services
 
-  <div style="width:180px; flex-shrink:0; display:flex; justify-content:flex-start;">
-    <img src="/images/android-chrome-512x512.png" alt="Wuhan University placeholder" style="width:120px; height:120px; object-fit:contain;">
-  </div>
+- Committee Member, Mental Health Center, Wuhan University.
+- Committee Member, Human Resources Management Department, Wuhan University Youth Volunteers Association.
 
-</div>
 
-<span class='anchor' id='skills'></span>
-
-# &#128295; Skills
-- **Research:** AI Security, Federated Learning, Graph Learning, LLM Security, Trustworthy AI
-- **Programming:** Python, C/C++, HTML/CSS/JS, Git
-- **Tools:** PyTorch, LaTeX, Linux, VS Code
