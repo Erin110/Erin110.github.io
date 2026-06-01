@@ -1,6 +1,6 @@
 # Site Settings
 title                    : "Yawen Jia"
-description              : "Undergraduate student in Cyberspace Security, Wuhan University"
+description              : "Undergraduate student at Wuhan University."
 repository               : "Erin110/Erin110.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -16,7 +16,7 @@ baidu_site_verification  :
 author:
   name             : "Yawen Jia"
   avatar           : "images/profile.png"
-  bio              : "School of Cyber Science and Engineering, Wuhan University"
+  bio              : 
   location         : "Wuhan, China"
   employer         :
   pubmed           :
