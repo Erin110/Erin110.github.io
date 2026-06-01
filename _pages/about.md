@@ -35,44 +35,45 @@ My research interests primarily include **Large Language Models**, **AI Security
 
 <span style="font-size:0.9em; color:#666;">&#8224; Equal contribution</span>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/pub-ai-security.svg' alt="AI Security" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src="/images/VeriDrift.png" alt="VeriDrift" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**AI Security and Trustworthy AI**
+**Consistency-Verified Backdoor Defense for Federated Graph Learning via Cross-Layer Drift**
 
-**Yawen Jia**, collaborators to be updated
+**Yanwen Jia<sup>†</sup>**, collaborators to be updated
 
-*Research in progress / manuscript to be updated*
+*Submitted to NeurIPS 2026 · Co-first author*
 
-Security risks, robustness, and reliability evaluation for modern AI systems.
+We propose **VeriDrift**, a backdoor defense framework for **Federated Graph Learning (FGL)** that leverages cross-layer representation drift, server-side consistency verification, and risk-aware aggregation to suppress malicious updates while preserving clean model utility under heterogeneous graph settings.
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/pub-federated-graph.svg' alt="Federated Graph Learning" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src="/images/LLM_as_a_judge.png" alt="LLM-as-a-Judge Bias" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Federated Graph Learning**
+**Evaluating and Mitigating LLM-as-a-judge Bias in Communication Systems**
 
-**Yawen Jia**, collaborators to be updated
+Jiaxin Gao, Chen Chen, **Yanwen Jia**, Xueluan Gong, Kwok-Yan Lam, Qian Wang
 
-*Research in progress / manuscript to be updated*
+*IEEE Network · Accepted · Third author*  
+[[IEEE Xplore]](https://ieeexplore.ieee.org/document/11536168)
 
-Graph learning in distributed and privacy-aware settings, with attention to secure collaboration, privacy, and model reliability.
+We systematically investigate evaluation biases in **LLM-as-a-Judge** systems for communication scenarios, covering multiple judge models and 11 bias types, and discuss practical mitigation strategies for building fair, reliable, and trustworthy AI-based evaluators.
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/pub-llm-security.svg' alt="LLM Security" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src="/images/Plato'sForm.png" alt="PROTOPURIFY" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**LLM Security**
+**Plato's Form: Toward Backdoor Defense-as-a-Service for LLMs with Prototype Representations**
 
-**Yawen Jia**, collaborators to be updated
+Chen Chen, Yuchen Sun, Jiaxin Gao, **Yanwen Jia**, Xueluan Gong, Qian Wang, Kwok-Yan Lam
 
-*Research in progress / manuscript to be updated*
+*Submitted to ACM CCS 2026 · Fourth author*
 
-Security and safety issues in large language models, including prompt-level attacks and trustworthy behavior evaluation.
+We propose **PROTOPURIFY**, a prototype-based backdoor purification framework for **Large Language Models (LLMs)**, which constructs transferable backdoor prototypes, identifies affected layers, and performs targeted parameter purification toward practical Backdoor Defense-as-a-Service.
 
 </div>
 </div>
