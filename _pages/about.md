@@ -64,7 +64,7 @@ We systematically investigate evaluation biases in **LLM-as-a-Judge** systems fo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src="/images/Plato'sForm.png" alt="PROTOPURIFY" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src="/images/PlatoForm.png" alt="PROTOPURIFY" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Plato's Form: Toward Backdoor Defense-as-a-Service for LLMs with Prototype Representations**
